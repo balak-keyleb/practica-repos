@@ -9,3 +9,8 @@ tracert "www.wikipedia.com"
 
 
 ipconfig
+
+
+#determines DNS problems.
+
+nslookup "www.google.com"
